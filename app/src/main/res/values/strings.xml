@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BLEB HR Bridge</string>
+    <string name="notification_channel_name">Heart Rate Bridge</string>
+    <string name="notification_channel_desc">Ongoing notification for BLE Heart Rate Bridge service</string>
+    <string name="notification_title">Heart Rate Bridge</string>
+    <string name="notification_bridging">Broadcasting %d BPM</string>
+    <string name="notification_scanning">Searching for Mi Band…</string>
+    <string name="notification_connected">Connected, waiting for data…</string>
+    <string name="notification_stopped">Bridge stopped</string>
+    <string name="start_bridge">Start Bridge</string>
+    <string name="stop_bridge">Stop Bridge</string>
+    <string name="action_stop">Stop</string>
+</resources>
